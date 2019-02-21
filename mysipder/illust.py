@@ -4,7 +4,7 @@ import threading
 
 from lxml import etree
 from queue import Queue
-from util import folder
+from utils import folder
 from config import settings
 
 

@@ -2,7 +2,7 @@
 #  __version__ = 1.0
 ###
 
-from myspider.illust import MooYu
+from mysipder.illust import MooYu
 
 
 def main():
